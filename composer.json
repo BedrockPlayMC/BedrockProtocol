@@ -1,5 +1,5 @@
 {
-    "name": "bedrockplaymc/bedrock-protocol",
+    "name": "bedrockplay/bedrock-protocol",
     "description": "An implementation of the Minecraft: Bedrock Edition protocol in PHP",
     "type": "library",
     "require": {
